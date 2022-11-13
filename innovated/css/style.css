@@ -524,7 +524,7 @@ body {
 	height: 100%;
 	top: 0;
 	left: 0;
-	object-fit: contain;
+	object-fit: cover;
 }
 /* *======================================== slayder-main media*/
 @media(max-width: 1170px) {
@@ -659,13 +659,6 @@ body {
 	min-height: 50px;
 	padding-left: 15px;
 }
-.form__name {}
-.name {}
-.form-main__tel {}
-.tel {}
-.email {}
-.form-main__button {}
-.button {}
 @media(max-width: 1170px) {
 	.form-main {
 		padding: 60px 0;
